@@ -25,8 +25,8 @@ Este es un proyecto sencillo de ReactJS que implementa la tarjeta de "A quién s
 
 ## Uso
 
-1. Ejecuta el proyecto usando `npm start`.
-2. Abre tu navegador y navega a `http://localhost:3000` para ver la aplicación en acción.
+1. Ejecuta el proyecto usando `npm run dev`.
+2. Abre tu navegador y navega a `http://localhost:5173` para ver la aplicación en acción.
 3. Explora las tarjetas de usuarios y sigue a tus favoritos.
 
 ## Tecnologías utilizadas
